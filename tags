@@ -9,6 +9,7 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	5.9.0	/f32bb9f1/
+.footer	src/styles.css	/^.footer {$/;"	c
 .header	src/styles.css	/^.header {$/;"	c
 0	./package.json	/^    "GitHub Flow"$/;"	s	array:keywords
 @babel/code-frame	./package-lock.json	/^        "@babel\/code-frame": "^7.0.0",$/;"	s	object:dependencies.parse-json.requires
